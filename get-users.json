@@ -1,0 +1,5 @@
+{
+  "body": {
+	   "query": "{ users { givenName lastName email phoneNumber createdAt updatedAt }}"
+   }
+}

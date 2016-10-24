@@ -1,0 +1,6 @@
+{
+  "body": {
+	  "query": "mutation createUser($givenName: String, $lastName: String, $email: String, $phoneNumber: String!) { createUser(givenName: $givenName, lastName: $lastName, email: $email, phoneNumber: $phoneNumber) { givenName lastName email phoneNumber createdAt updatedAt } }",
+	  "variables": { "givenName": "Calvin", "lastName": "Chan", "email": "whois@calvin.com", "phoneNumber": "+14445556666" }
+  }
+}
