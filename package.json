@@ -1,5 +1,5 @@
 {
-  "name": "boost",
+  "name": "serverless-graphql-starter-kit",
   "version": "0.0.1",
   "description": "A serverless framework for GraphQL, API Gateway and Lambda functions.",
   "main": "handler.js",
